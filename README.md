@@ -97,8 +97,11 @@ This project was developed collaboratively by the following team members:
 
 - Besher Mahrouka:
    1- Built and prepared the GitHub repo for the project
+  
    2- Built the data cleaning code as part of data engineering and feature engineering
+  
    3- Built classification code which includes liner regression and random forest
+  
 - Si Min Zhou:
 - Shweta Sharma:
 - Anna Hromova:
