@@ -2,7 +2,7 @@
 
 ## **Purpose & Overview**
 
-This project aims to predict the next-day direction of stock index prices (whether the price will increase or decrease) using historical stock market data and machine learning techniques. We focus on various stock market indicators such as volume, open, adjust close, high and low prices, along with technical indicators like MACD, BBP, RSI, EMA and SMA to build our predictive model.
+This project aims to predict the next-day direction of stock index prices (whether the price will increase or decrease) using historical stock market data and machine learning techniques. We focus on various stock market indicators such as volume, volatility, open, adjust close, high and low prices, along with technical indicators like MACD, RSI, EMA and SMA to build our predictive model.
 
 The objective of the project is to develop and compare different machine learning models to determine which one performs best in predicting stock index price trends, helping traders and investors make data-driven decisions.
 
@@ -30,7 +30,7 @@ The following tools and methods were used to complete the project:
 
 2. **Feature Engineering**:
 
-   - Technical indicators like Moving Average Convergence Divergence (MACD), Bollinger Band Percentage(BBP), Relative Strength Index (RSI), SMA and EMA were used to improve the predictive power of the models.
+   - Technical indicators like Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI), SMA and EMA were used to improve the predictive power of the models.
    - Price direction (`1` for increase, `0` for decrease or no change) was used as the target variable.
 
 3. **Machine Learning Models**:
@@ -96,13 +96,13 @@ For future work, we recommend:
 This project was developed collaboratively by the following team members:
 
 - Besher Mahrouka:
-  
-   1- Built and prepared the GitHub repo for the project
-  
-   2- Built the data cleaning code as part of data engineering and feature engineering
-  
-   3- Built classification code which includes liner regression and random forest
-  
+
+  1- Built and prepared the GitHub repo for the project
+
+  2- Built the data cleaning code as part of data engineering and feature engineering
+
+  3- Built classification code which includes liner regression and random forest
+
 - Si Min Zhou:
 - Shweta Sharma:
 - Anna Hromova:
