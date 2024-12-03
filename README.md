@@ -116,6 +116,8 @@ This project was developed collaboratively by the following team members:
 
   3- Built classification code which includes liner regression and random forest
 
+  4- Built a deep learning model (LSTM) to predict stock market 
+
 - Si Min Zhou:
 
   1- Enhanced data cleaning and classification code, refining indicator selection to improve model accuracy; added evaluation methods to better assess model performance
