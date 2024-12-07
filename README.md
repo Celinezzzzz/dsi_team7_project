@@ -137,4 +137,5 @@ This project was developed collaboratively by the following team members:
 2- Ensured the proper formatting and structure of data before inserting it into the SQL tables for further analysis.
 
 3- Assisted with the integration of SQL-based data management into the overall project workflow.
+
 [Recording_Anna_Hromova](https://drive.google.com/file/d/1lMqlNGspNQBC6xDBbuEjxEtxgG7dJyaZ/view?usp=drivesdk)
