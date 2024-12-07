@@ -149,8 +149,10 @@ This project was developed collaboratively by the following team members:
 - Shweta Sharma:
 - Anna Hromova:
 
-  1- Developed the SQL code to upload CSV data into the database.
+1- Developed the SQL code to upload CSV data into the database.
 
-  2- Ensured the proper formatting and structure of data before inserting it into the SQL tables for further analysis.
+2- Ensured the proper formatting and structure of data before inserting it into the SQL tables for further analysis.
 
-  3- Assisted with the integration of SQL-based data management into the overall project workflow.
+3- Assisted with the integration of SQL-based data management into the overall project workflow.
+
+[Recording_Anna_Hromova](https://drive.google.com/file/d/1lMqlNGspNQBC6xDBbuEjxEtxgG7dJyaZ/view?usp=drivesdk)
